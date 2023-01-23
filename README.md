@@ -58,3 +58,5 @@ stretch your skills.
 ## Author
 
 Sumeya Haji.
+# License
+​Licenced under the [ISC-licenced]
