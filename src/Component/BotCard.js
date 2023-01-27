@@ -46,7 +46,7 @@ function BotCard({ bot, getMyArmy, handleFilter }) {
                   className="ui mini red button"
                   onClick={() => handleFilter(bot)}
                 >
-                  Remove
+               Remove
                 </button>
               ) : (
                 true
