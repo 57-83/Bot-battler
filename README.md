@@ -59,4 +59,4 @@ stretch your skills.
 
 Sumeya Haji.
 # License
-​Licenced under the [ISC-licenced]
+​Licenced under the [Isc-Licensed]
